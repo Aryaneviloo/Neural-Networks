@@ -1,2 +1,2 @@
 # Neural-Networks
-Deep learning fundamentals: building neural network components and architectures from scratch using Python
+Welcome to my Neural Network Lab! This repository serves as a dedicated workspace for my deep learning studies. Here, I am deconstructing complex AI concepts by building them from the ground up—starting with individual neurons, moving through backpropagation, and eventually applying them to real-world datasets. This collection tracks my technical progression and serves as a portfolio of my implementation skills
